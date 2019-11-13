@@ -94,7 +94,7 @@
                     <!--== Logo Start ==-->
                     <div class="col-lg-4">
                         <a href="index.html" class="logo">
-                            <img src="<?= base_url() ?>assets/img/logo.png" alt="JSOFT">
+                            <img src="<?= base_url() ?>assets/img/gaskeun_logo.png" alt="JSOFT">
                         </a>
                     </div>
                     <!--== Logo End ==-->
